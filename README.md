@@ -14,8 +14,9 @@
 ## 安装
 
 1. 安装 [Tampermonkey（篡改猴）](https://www.tampermonkey.net/)
-2. 打开 `deepseek-glass-theme.user.js`，点击安装
-3. 打开 [chat.deepseek.com](https://chat.deepseek.com) 即可生效
+2. 安装 [Better DeepSeek](https://microsoftedge.microsoft.com/addons/detail/better-deepseek/goboedojlaeplneahnmnobmendoeblld)
+3. 打开 `deepseek-glass-theme.user.js`，点击安装
+4. 打开 [chat.deepseek.com](https://chat.deepseek.com) 即可生效
 
 ## 使用
 
