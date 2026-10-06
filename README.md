@@ -1,4 +1,4 @@
-# DeepSeek 玻璃美化 (deepseek-glass-theme)
+# DeepSeek 玻璃美化 (Better-DeepSeek-theme)
 
 给 DeepSeek 网页版（chat.deepseek.com）穿上苹果风液态玻璃皮肤的油猴脚本，支持自定义背景图、玻璃参数调节与字体黑白切换。
 
@@ -31,7 +31,7 @@
 
 1. 安装 [Tampermonkey（篡改猴）](https://www.tampermonkey.net/)
 2. 安装 [Better DeepSeek](https://microsoftedge.microsoft.com/addons/detail/better-deepseek/goboedojlaeplneahnmnobmendoeblld)
-3. 打开 `deepseek-glass-theme.user.js`，点击安装
+3. 打开 `better-deepseek-theme.user.js`，点击安装
 4. 打开 [chat.deepseek.com](https://chat.deepseek.com) 即可生效
 
 ## 使用
